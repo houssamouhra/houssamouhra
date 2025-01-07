@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Houssam, a Front-End Developer.
+## 👋 Hi, I’m a Front-End Developer.
 
 ✔ Front-end Skills: HTML5 · CSS3 · JavaScript ES6 · TailwindCSS · UI/UX · npm · Git 
 
