@@ -3,7 +3,7 @@
 ### 🛠️ My Tech Stack
 
 - **Languages & Libraries:** HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, Vue, Nuxt
-- **Tools & Concepts:** Git, UI/UX Principles, REST APIs, Node.js, Express.js, MongoDB
+- **Tools & Concepts:** Git, UI/UX Principles, REST APIs, Node.js, Express.js, MongoDB, Axios, Firebase
 
 <h3 align="left">Languages and Tools:</h3>
 
