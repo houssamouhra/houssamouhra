@@ -2,7 +2,7 @@
 
 ### 🛠️ My Tech Stack
 
-- **Languages & Libraries:** HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, Vue 3, Nuxt 3
+- **Languages & Libraries:** HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, Vue, Nuxt
 - **Tools & Concepts:** Git, UI/UX Principles, REST APIs, Node.js, Express.js, MongoDB
 
 <h3 align="left">Languages and Tools:</h3>
