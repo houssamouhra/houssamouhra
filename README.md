@@ -18,22 +18,28 @@
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/e044519e-b77b-4f8a-bb95-5178699151b9" alt="tailwind" width="30" height="30"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="30" height="30"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/f80c7b29-da70-443c-ac4e-9b739772bced" alt="nuxt" width="30" height="30"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
   </a>
