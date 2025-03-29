@@ -26,7 +26,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/0eddd066-1686-4efc-89b8-5debe2ffca71" alt="typescript" width="30" height="30"/>
       </a>
     </td>
     <td align="center" valign="middle">
