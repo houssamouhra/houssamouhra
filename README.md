@@ -40,7 +40,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/f80c7b29-da70-443c-ac4e-9b739772bced" alt="nuxt" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/f80c7b29-da70-443c-ac4e-9b739772bced" alt="nuxt" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
