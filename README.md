@@ -72,6 +72,8 @@
   </tr>
 </table>
 
-💬 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/houssamouhra)
+💼 Currently open to front-end internship opportunities (remote or on-site).
+
+💬 <em>Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/houssamouhra)<em>
 
 
