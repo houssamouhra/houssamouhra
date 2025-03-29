@@ -11,12 +11,12 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/accccd15-3c3f-4c9e-814d-0f7fea8f5e63" alt="javascript" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/accccd15-3c3f-4c9e-814d-0f7fea8f5e63" alt="html" width="35" height="35"/>
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/f0959237-8d4e-4ea2-a8e0-e4f929e27948" alt="javascript" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/f0959237-8d4e-4ea2-a8e0-e4f929e27948" alt="css" width="35" height="35"/>
       </a>
     </td>
     <td align="center" valign="middle">
@@ -71,11 +71,11 @@
     </td>
   </tr>
 </table>
-&nbsp;
-
+<br/>
 
 #### 💼 Currently open to front-end internship opportunities (*remote or on-site*).
 
-💬 <em>Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/houssamouhra)<em>
+💬 <em>Feel free to reach out or connect with me on <a href="https://www.linkedin.com/in/houssamouhra" target="_blank">LinkedIn</a>.</em>
+
 
 
