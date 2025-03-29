@@ -71,6 +71,8 @@
     </td>
   </tr>
 </table>
+&nbsp;
+
 
 💼 Currently open to front-end internship opportunities (remote or on-site).
 
