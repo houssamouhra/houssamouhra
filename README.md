@@ -35,7 +35,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="35" height="35"/>
       </a>
     </td>
     <td align="center" valign="middle">
