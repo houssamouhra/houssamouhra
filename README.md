@@ -1,4 +1,4 @@
-## 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
+![vscode-icons--file-type-html](https://github.com/user-attachments/assets/baf0b719-2366-4ae9-8e8c-34232264f0c1)## 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
 
 ### 🛠️ Front-End Skills
 - HTML5, CSS3, TailwindCSS
@@ -18,6 +18,16 @@
 
 <table>
   <tr>
+    <td align="center" valign="middle">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/accccd15-3c3f-4c9e-814d-0f7fea8f5e63" alt="javascript" width="30" height="30"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/f0959237-8d4e-4ea2-a8e0-e4f929e27948" alt="javascript" width="30" height="30"/>
+      </a>
+    </td>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
@@ -43,7 +53,6 @@
         <img src="https://github.com/user-attachments/assets/3600ebcb-adb2-46b8-a606-1745fa8bbba8" alt="pinia" width="40" height="40"/>
       </a>
     </td>
-    </td>
     <td align="center" valign="middle">
       <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/f80c7b29-da70-443c-ac4e-9b739772bced" alt="nuxt" width="40" height="40"/>
@@ -51,7 +60,7 @@
     </td>
    <td align="center" valign="middle">
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/3f3db7bf-7df7-4d81-8cc0-49934183536d" alt="node" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/3f3db7bf-7df7-4d81-8cc0-49934183536d" alt="node" width="35" height="35"/>
       </a>
    </td>
     </td>
