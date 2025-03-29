@@ -1,4 +1,4 @@
-![vscode-icons--file-type-html](https://github.com/user-attachments/assets/baf0b719-2366-4ae9-8e8c-34232264f0c1)## 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
+## 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
 
 ### 🛠️ Front-End Skills
 - HTML5, CSS3, TailwindCSS
