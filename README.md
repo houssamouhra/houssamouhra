@@ -1,4 +1,4 @@
-## 👋 Hi there! I’m a passionate Front-End Developer focused on building clean, user-friendly interfaces and performant web applications.
+## 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
 
 ### 🛠️ Front-End Skills
 - HTML5, CSS3, TailwindCSS
