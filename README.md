@@ -16,7 +16,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/f0959237-8d4e-4ea2-a8e0-e4f929e27948" alt="css" width="37" height="37"/>
+        <img src="https://github.com/user-attachments/assets/f0959237-8d4e-4ea2-a8e0-e4f929e27948" alt="css" width="35" height="35"/>
       </a>
     </td>
     <td align="center" valign="middle">
