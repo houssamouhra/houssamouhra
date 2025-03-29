@@ -1,18 +1,9 @@
 ## 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
 
-### 🛠️ Front-End Skills
-- HTML5, CSS3, TailwindCSS
-- JavaScript (ES6+), TypeScript
-- Vue 3, Nuxt 3
-- UI/UX Design Principles
-- Git
+### 🛠️ My Tech Stack
 
-### 🔧 Basic Backend Knowledge
-- Node.js, Express.js
-- REST APIs
-- MongoDB
-
-💬 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/houssamouhra)
+- **Languages & Libraries:** HTML5, CSS3, TailwindCSS, JavaScript (ES6+), TypeScript, Vue 3, Nuxt 3
+- **Tools & Concepts:** Git, UI/UX Principles, REST APIs, Node.js, Express.js, MongoDB
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -80,4 +71,7 @@
     </td>
   </tr>
 </table>
+
+💬 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/houssamouhra)
+
 
