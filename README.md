@@ -11,7 +11,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/accccd15-3c3f-4c9e-814d-0f7fea8f5e63" alt="html" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/accccd15-3c3f-4c9e-814d-0f7fea8f5e63" alt="html" width="37" height="37"/>
       </a>
     </td>
     <td align="center" valign="middle">
