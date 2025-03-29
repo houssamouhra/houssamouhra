@@ -30,7 +30,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/e044519e-b77b-4f8a-bb95-5178699151b9" alt="tailwind" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/e044519e-b77b-4f8a-bb95-5178699151b9" alt="tailwind" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
