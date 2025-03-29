@@ -63,7 +63,11 @@
         <img src="https://github.com/user-attachments/assets/3f3db7bf-7df7-4d81-8cc0-49934183536d" alt="node" width="35" height="35"/>
       </a>
    </td>
-    </td>
+   <td align="center" valign="middle">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/ae1b8dcc-22aa-459f-8b07-7ad5d88a82d8" alt="node" width="35" height="35"/>
+      </a>
+   </td>
     <td align="center" valign="middle">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
