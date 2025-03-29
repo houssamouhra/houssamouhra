@@ -39,6 +39,12 @@
       </a>
     </td>
     <td align="center" valign="middle">
+      <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/3600ebcb-adb2-46b8-a606-1745fa8bbba8" alt="pinia" width="40" height="40"/>
+      </a>
+    </td>
+    </td>
+    <td align="center" valign="middle">
       <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/f80c7b29-da70-443c-ac4e-9b739772bced" alt="nuxt" width="40" height="40"/>
       </a>
