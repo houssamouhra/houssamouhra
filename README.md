@@ -21,7 +21,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/9e5110fa-8a59-43d9-b954-6f4591326e73" alt="javascript" width="30" height="30"/>
       </a>
     </td>
     <td align="center" valign="middle">
