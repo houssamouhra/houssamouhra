@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
 
-### My Tech Stack
+### My Tech Stack:
 
 - **🌐 Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Nuxt.js
 - **🛠️ Tools & Concepts:** Git · UI/UX Principles · REST APIs · Axios · Firebase
