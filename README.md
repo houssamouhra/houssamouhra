@@ -6,7 +6,7 @@
 - **🛠️ Tools & Concepts:** Git · UI/UX Principles · REST APIs · Axios · Firebase
 - **🚧 Getting Hands-On With:** Node.js · Express.js · MongoDB 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 <table>
   <tr>
