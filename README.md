@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m a Front-End Developer crafting clean, user-friendly web interfaces.
+# 👋 Hi! I'm a Front-End Developer building clean, user-friendly web apps.
 
 ### My Tech Stack:
 
