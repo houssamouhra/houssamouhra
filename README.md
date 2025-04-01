@@ -2,9 +2,9 @@
 
 ### My Tech Stack:
 
- **🌐 Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Nuxt.js
- **🛠️ Tools & Concepts:** Git · UI/UX Principles · REST APIs · Axios · Firebase
- **🚧 Getting Hands-On With:** Node.js · Express.js · MongoDB 
+- **🌐 Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Nuxt.js
+- **🛠️ Tools & Concepts:** Git · UI/UX Principles · REST APIs · Axios · Firebase
+- **🚧 Getting Hands-On With:** Node.js · Express.js · MongoDB 
 
 ### Languages and Tools:
 
