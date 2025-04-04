@@ -76,6 +76,12 @@
         <img src="https://github.com/user-attachments/assets/8eed9b24-2b5f-445f-aa25-f1f88dbaa764" alt="git" width="40" height="40"/>
       </a>
     </td>
+    <td align="center" valign="middle">
+      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/2562da4b-51a2-40a2-bbda-78cbc7e22ea6" alt="netlify" width="40" height="40"/>
+
+      </a>
+    </td>
   </tr>
 </table>
 <br/>
