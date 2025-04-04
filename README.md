@@ -79,7 +79,6 @@
     <td align="center" valign="middle">
       <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/2562da4b-51a2-40a2-bbda-78cbc7e22ea6" alt="netlify" width="40" height="40"/>
-
       </a>
     </td>
   </tr>
