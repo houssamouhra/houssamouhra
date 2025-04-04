@@ -67,7 +67,7 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <a href="https://vite.dev/" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/dceaa364-e782-47db-b160-0d8a34d5665d" alt="vite" width="40" height="40"/>
       </a>
     </td>
