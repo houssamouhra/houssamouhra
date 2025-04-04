@@ -22,7 +22,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/9e5110fa-8a59-43d9-b954-6f4591326e73" alt="javascript" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/018f76ec-c629-4c23-85e2-e4024fbcf26a" alt="javascript" width="30" height="30"/>
       </a>
     </td>
     <td align="center" valign="middle">
