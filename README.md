@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm a Full-Stack Developer with a Front-End Focus
-— building clean, scalable, and user-friendly web applications.
+## — building clean, scalable, and user-friendly web applications.
 
 ### My Tech Stack:
 
