@@ -8,16 +8,17 @@
 
 ### Languages and Tools:
 
+
 <table>
   <tr>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank" rel="noopener">
-        <img src="https://github.com/user-attachments/assets/accccd15-3c3f-4c9e-814d-0f7fea8f5e63" alt="html" width="37" height="37"/>
+        <img src="https://github.com/user-attachments/assets/68ae1c01-2140-4017-b093-df49edd0ac2b" alt="html" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/f0959237-8d4e-4ea2-a8e0-e4f929e27948" alt="css" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/99cb3278-bf25-497e-bfcd-c3882bbcfacb" alt="css" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
@@ -32,12 +33,12 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/e044519e-b77b-4f8a-bb95-5178699151b9" alt="tailwind" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/54c7fbaa-33b8-4d11-9ee7-88615f2b6333" alt="tailwind" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/1e8dc893-94b3-4063-b117-d6154b97732f" alt="vuejs" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
@@ -47,27 +48,27 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/f80c7b29-da70-443c-ac4e-9b739772bced" alt="nuxt" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/8d2f56b2-dcb6-4e75-8b30-82f4c4445dd3" alt="nuxt" width="40" height="40"/>
       </a>
     </td>
    <td align="center" valign="middle">
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/3f3db7bf-7df7-4d81-8cc0-49934183536d" alt="node" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/c1feb79b-df0e-4f56-acdf-63b0b251a3ed" alt="node" width="40" height="40"/>
       </a>
    </td>
    <td align="center" valign="middle">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/ae1b8dcc-22aa-459f-8b07-7ad5d88a82d8" alt="node" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/69c5851f-4a6e-49a5-9f2e-a6ee58d5e1c2" alt="mongo" width="40" height="40"/>
       </a>
    </td>
     <td align="center" valign="middle">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+        <img src="https://github.com/user-attachments/assets/8eed9b24-2b5f-445f-aa25-f1f88dbaa764" alt="git" width="40" height="40"/>
       </a>
     </td>
   </tr>
