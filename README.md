@@ -3,7 +3,7 @@
 ### My Tech Stack:
 
 - **🌐 Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Nuxt.js
-- **🛠️ Tools & Concepts:** Git · UI/UX Principles · REST APIs · Axios · Firebase
+- **🛠️ Tools & Concepts:** UI/UX Principles · Git · Vite · REST APIs · Axios · Firebase
 - **🚧 Getting Hands-On With:** Node.js · Express.js · MongoDB 
 
 ### Languages and Tools:
@@ -64,6 +64,11 @@
     <td align="center" valign="middle">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/user-attachments/assets/dceaa364-e782-47db-b160-0d8a34d5665d" alt="vite" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
