@@ -63,7 +63,7 @@
    </td>
     <td align="center" valign="middle">
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/d2fbd060-f838-4a7a-ad42-34c80b8e2a98" alt="firebase" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
