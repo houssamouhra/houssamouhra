@@ -43,7 +43,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/63e723c3-1a83-4f29-82d1-00c6a673c9ae" alt="pinia" width="42" height="42"/>
+        <img src="https://github.com/user-attachments/assets/03e70e91-3420-4a99-b68e-62df74b73660" alt="pinia" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
