@@ -38,7 +38,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/1e8dc893-94b3-4063-b117-d6154b97732f" alt="vuejs" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/315e8b69-6226-46bc-a1e6-1638888a8c77" alt="vuejs" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
