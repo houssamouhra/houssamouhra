@@ -1,10 +1,10 @@
 ## 👋 Hi! I'm a Full-Stack Developer with a Front-End Focus.
 
-### My Tech Stack:
+### Tech Stack:
 
-- **🌐 Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Nuxt.js
-- **🛠️ Tools & Concepts:** UI/UX Principles · Git · REST APIs · Axios · Firebase · Vite · Netlify
-- **🚧 Getting Hands-On With:** Node.js · Express.js · MongoDB 
+- **Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Nuxt.js
+- **Tools & Concepts:** UI/UX Principles · Git · REST APIs · Axios · Firebase · Vite · Netlify
+- **Getting Hands-On With:** Node.js · Express.js · MongoDB 
 
 ### Languages and Tools:
 
