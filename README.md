@@ -8,7 +8,6 @@
 
 ### Languages and Tools:
 
-
 <table>
   <tr>
     <td align="center" valign="middle">
@@ -18,7 +17,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/99cb3278-bf25-497e-bfcd-c3882bbcfacb" alt="css" width="40" height="40"/>
+        <img src="https://github.com/user-attachments/assets/f400d69a-5eff-445d-884f-d0dca001a3d3" alt="css" width="40" height="40"/>
       </a>
     </td>
     <td align="center" valign="middle">
