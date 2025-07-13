@@ -2,7 +2,7 @@
 
 ### Tech Stack:
 
-- **Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Nuxt.js
+- **Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Playwright · Vitest · SQLite
 - **Tools & Concepts:** UI/UX Principles · Git · REST APIs · Axios · Firebase · Vite · Netlify
 - **Getting Hands-On With:** Node.js · Express.js · MongoDB 
 
