@@ -45,11 +45,6 @@
         <img src="https://github.com/user-attachments/assets/03e70e91-3420-4a99-b68e-62df74b73660" alt="pinia" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" valign="middle">
-      <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/8d2f56b2-dcb6-4e75-8b30-82f4c4445dd3" alt="nuxt" width="40" height="40"/>
-      </a>
-    </td>
    <td align="center" valign="middle">
       <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
         <img src="https://github.com/user-attachments/assets/c1feb79b-df0e-4f56-acdf-63b0b251a3ed" alt="node" width="40" height="40"/>
