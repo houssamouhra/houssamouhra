@@ -34,7 +34,7 @@
     rel="noopener noreferrer nofollow"
     href="https://developer.mozilla.org/en-US/docs/Web/CSS"
     ><img
-      src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
       height="40"
       alt="css3 logo"
       data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
