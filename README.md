@@ -8,11 +8,11 @@
   </a>
 </div>
 
-### Tech Stack:
+### 🛠️ Tech Stack:
 
-- **Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · 
-- **Tools & Concepts:** UI/UX Principles · Git · REST APIs · Axios · Firebase · Vite · Netlify
-- **Getting Hands-On With:** Node.js · Express.js · MongoDB 
+- **Languages & Libraries:** JavaScript · TypeScript · Vue.js · React · TailwindCSS
+- **Tools & Concepts:** UI/UX Principles · REST APIs · Firebase · Netlify · Playwright
+- **Currently Learning:** Node.js · Express.js 
 
 </br>
 
