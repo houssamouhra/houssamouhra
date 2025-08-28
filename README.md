@@ -134,10 +134,10 @@
     rel="noopener noreferrer nofollow"
     href="https://firebase.google.com/"
     ><img
-      src="https://github.com/user-attachments/assets/d2fbd060-f838-4a7a-ad42-34c80b8e2a98"
+      src="https://github.com/user-attachments/assets/597ef8ea-b286-40e6-8358-33517a92066a"
       height="40"
       alt="nodejs logo"
-      data-canonical-src="https://github.com/user-attachments/assets/d2fbd060-f838-4a7a-ad42-34c80b8e2a98"
+      data-canonical-src="https://github.com/user-attachments/assets/597ef8ea-b286-40e6-8358-33517a92066a"
       style="max-width: 100%; height: auto; max-height: 40px"
   /></a>
   <a target="_blank" rel="noopener noreferrer" href=""
@@ -158,5 +158,3 @@
     ><img width="12" style="max-width: 100%"
   /></a>
 </div>
-
-
