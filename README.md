@@ -14,6 +14,8 @@
 - **Tools & Concepts:** UI/UX Principles · Git · REST APIs · Axios · Firebase · Vite · Netlify
 - **Getting Hands-On With:** Node.js · Express.js · MongoDB 
 
+</br>
+
 <div align="center" dir="auto">
   <a
     target="_blank"
