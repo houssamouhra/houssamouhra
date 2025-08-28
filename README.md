@@ -1,87 +1,160 @@
-## 👋 Hi! I'm a Full-Stack Developer with a Front-End Focus.
+## 👋 Hi there!
+
+</br>
+
+<div align="left" dir="auto">
+  <a href="https://linkedin.com/in/houssamouhra" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/d480ac2d833f4b1e67b1e4bcad44248aa117f7cbcdd2eb55320b47a40b068a40/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666c6174" height="40" alt="linkedin logo" data-canonical-src="https://img.shields.io/static/v1?message=LinkedIn&amp;logo=linkedin&amp;label=&amp;color=0077B5&amp;logoColor=white&amp;labelColor=&amp;style=flat" style="max-width: 100%; height: auto; max-height: 40px;">
+  </a>
+</div>
 
 ### Tech Stack:
 
-- **Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · Playwright · Vitest · SQLite
+- **Languages & Libraries:** HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · TypeScript · Vue.js · 
 - **Tools & Concepts:** UI/UX Principles · Git · REST APIs · Axios · Firebase · Vite · Netlify
 - **Getting Hands-On With:** Node.js · Express.js · MongoDB 
 
-### Languages and Tools:
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank" rel="noopener">
-        <img src="https://github.com/user-attachments/assets/68ae1c01-2140-4017-b093-df49edd0ac2b" alt="html" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/f400d69a-5eff-445d-884f-d0dca001a3d3" alt="css" width="50" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/018f76ec-c629-4c23-85e2-e4024fbcf26a" alt="javascript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/9ae24b66-7190-4e02-b258-d1775a82ac7f" alt="typescript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/54c7fbaa-33b8-4d11-9ee7-88615f2b6333" alt="tailwind" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/315e8b69-6226-46bc-a1e6-1638888a8c77" alt="vuejs" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/03e70e91-3420-4a99-b68e-62df74b73660" alt="pinia" width="40" height="40"/>
-      </a>
-    </td>
-   <td align="center" valign="middle">
-      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/c1feb79b-df0e-4f56-acdf-63b0b251a3ed" alt="node" width="40" height="40"/>
-      </a>
-   </td>
-   <td align="center" valign="middle">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/69c5851f-4a6e-49a5-9f2e-a6ee58d5e1c2" alt="mongo" width="40" height="40"/>
-      </a>
-   </td>
-    <td align="center" valign="middle">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/d2fbd060-f838-4a7a-ad42-34c80b8e2a98" alt="firebase" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/dceaa364-e782-47db-b160-0d8a34d5665d" alt="vite" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/2562da4b-51a2-40a2-bbda-78cbc7e22ea6" alt="netlify" width="40" height="40"/>
-      </a>
-    </td>
-       <td align="center" valign="middle">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/user-attachments/assets/8eed9b24-2b5f-445f-aa25-f1f88dbaa764" alt="git" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<br/>
-
-#### 💼 Currently open to front-end internship opportunities (*remote or on-site*).
-
-💬 <em>Feel free to reach out or connect with me on <a href="https://www.linkedin.com/in/houssamouhra" target="_blank">LinkedIn</a>.</em>
-
+<div align="center" dir="auto">
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      height="40"
+      alt="html5 logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
+    ><img
+      src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      height="40"
+      alt="css3 logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      height="40"
+      alt="javascript logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://www.typescriptlang.org/"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      height="40"
+      alt="typescript logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://react.dev/"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="40"
+      alt="react logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://vuejs.org/"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vuejs/vuejs-original.svg"
+      height="40"
+      alt="react logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vuejs/vuejs-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://tailwindcss.com/"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg"
+      height="40"
+      alt="tailwindcss logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://nodejs.org/en"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      height="40"
+      alt="nodejs logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://firebase.google.com/"
+    ><img
+      src="https://github.com/user-attachments/assets/d2fbd060-f838-4a7a-ad42-34c80b8e2a98"
+      height="40"
+      alt="nodejs logo"
+      data-canonical-src="https://github.com/user-attachments/assets/d2fbd060-f838-4a7a-ad42-34c80b8e2a98"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer nofollow"
+    href="https://git-scm.com/"
+    ><img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      height="40"
+      alt="git logo"
+      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      style="max-width: 100%; height: auto; max-height: 40px"
+  /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""
+    ><img width="12" style="max-width: 100%"
+  /></a>
+</div>
 
 
