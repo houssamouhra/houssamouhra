@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssamouhra)
 
 <div class="markdown-heading" dir="auto">
-  <h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+  <h1 tabindex="-1" class="heading-element" dir="auto">
     Tech Stack
     <a
       target="_blank"
