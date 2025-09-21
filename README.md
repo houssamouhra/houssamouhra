@@ -20,6 +20,7 @@
             src="https://camo.githubusercontent.com/83175ae7afae2cc167f8c3e4b65c761129f1a616c98c784730dc5657972a7eb4/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f3130393830313532322f3235393434353533382d31326639396330642d636232362d343663362d386238632d3938663235343739353637322e676966"
             width="32px"
             height="32px"
+            valign="middle"
             data-animated-image=""
             data-canonical-src="https://github-production-user-asset-6210df.s3.amazonaws.com/109801522/259445538-12f99c0d-cb26-46c6-8b8c-98f254795672.gif"
             style="max-width: 100%; height: auto; max-height: 32px"
