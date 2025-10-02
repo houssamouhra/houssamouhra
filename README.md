@@ -30,8 +30,8 @@
     </div>
 
 
-- **Languages & Libraries:** JavaScript · TypeScript · Vue.js · React · TailwindCSS
-- **Tools & Concepts:** UI/UX Principles · REST APIs · Firebase · Netlify · Playwright
+- **Languages & Libraries:** JavaScript · TypeScript · Vue · React · TailwindCSS
+- **Tools & Concepts:** REST APIs · Firebase · Netlify · Vitest · Playwright
 - **Currently Learning:** Node.js · Express.js 
 
 </br>
