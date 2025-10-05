@@ -32,11 +32,11 @@
   />
   <img
     src="https://github.com/user-attachments/assets/b38d59d7-e956-466b-b07c-c9d4144b9db4"
-    height="32"
-    width="32"
+    height="28"
+    width="28"
     alt="css"
     title="css"
-    style="vertical-align: middle; margin-right: 8px;"
+    style="margin-right: 8px;"
   />
   <img
     src="https://github.com/user-attachments/assets/23dcfdc6-27a3-4cc2-a1cc-4d7d104976d3"
