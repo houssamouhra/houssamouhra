@@ -45,7 +45,7 @@
     alt="html"
     title="html"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/d476732d-8a9a-4864-b7fc-f4a4c1130f43"
     height="32"
@@ -53,7 +53,7 @@
     alt="css"
     title="css"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/23dcfdc6-27a3-4cc2-a1cc-4d7d104976d3"
     height="32"
@@ -61,7 +61,7 @@
     alt="javascript"
     title="javascript"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/c4762b03-a98d-4f39-9aa0-cc4337934a0d"
     height="32"
@@ -77,7 +77,7 @@
     alt="react"
     title="react"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/b1a88339-3f0f-4ab6-bb78-f842f33cba62"
     height="32"
@@ -85,7 +85,7 @@
     alt="vue"
     title="vue"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/f3cd1ed3-3e7c-43bc-8050-419dc9212a30"
     height="32"
@@ -93,7 +93,7 @@
     alt="tailwindcss"
     title="tailwindcss"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/52daf937-f17f-4a9b-ac65-a13b515808d9"
     height="32"
@@ -101,7 +101,7 @@
     alt="nodejs"
     title="nodejs"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/597ef8ea-b286-40e6-8358-33517a92066a"
     height="32"
@@ -109,7 +109,7 @@
     alt="firebase"
     title="firebase"
   />
-  &nbsp;&nbsp;
+  &nbsp;
   <img
     src="https://github.com/user-attachments/assets/d4447fbe-7b59-4ff3-943e-90cf59021749"
     height="32"
@@ -117,5 +117,4 @@
     alt="git"
     title="git"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="6" /></a>
 </div>
