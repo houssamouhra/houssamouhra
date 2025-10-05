@@ -36,7 +36,7 @@
     width="32"
     alt="css"
     title="css"
-    style="margin-right: 8px"
+    style="vertical-align: middle; margin-right: 8px;"
   />
   <img
     src="https://github.com/user-attachments/assets/23dcfdc6-27a3-4cc2-a1cc-4d7d104976d3"
