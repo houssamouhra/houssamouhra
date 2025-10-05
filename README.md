@@ -28,7 +28,7 @@
     width="32"
     alt="html"
     title="html"
-    style="margin-right: 8px"
+    style="margin-right: 10px"
   />
   <img
     src="https://github.com/user-attachments/assets/6e1a1ce3-e8bd-4b9f-8cac-d341b45b8179"
@@ -36,7 +36,7 @@
     width="32"
     alt="css"
     title="css"
-    style="margin-right: 8px;"
+    style="margin-right: 10px;"
   />
   <img
     src="https://github.com/user-attachments/assets/23dcfdc6-27a3-4cc2-a1cc-4d7d104976d3"
@@ -44,7 +44,7 @@
     width="32"
     alt="javascript"
     title="javascript"
-    style="margin-right: 8px"
+    style="margin-right: 10px"
   />
   <img
     src="https://github.com/user-attachments/assets/c4762b03-a98d-4f39-9aa0-cc4337934a0d"
@@ -52,7 +52,7 @@
     width="32"
     alt="typescript"
     title="typescript"
-    style="margin-right: 8px"
+    style="margin-right: 10px"
   />
   <img
     src="https://github.com/user-attachments/assets/1acaad56-d43d-42ed-9a4e-f0c39af2e6c4"
@@ -60,7 +60,7 @@
     width="32"
     alt="react"
     title="react"
-    style="margin-right: 8px"
+    style="margin-right: 10px"
   />
   <img
     src="https://github.com/user-attachments/assets/b1a88339-3f0f-4ab6-bb78-f842f33cba62"
@@ -76,7 +76,7 @@
     width="32"
     alt="tailwindcss"
     title="tailwindcss"
-    style="margin-right: 8px"
+    style="margin-right: 10px"
   />
   <img
     src="https://github.com/user-attachments/assets/52daf937-f17f-4a9b-ac65-a13b515808d9"
@@ -84,7 +84,7 @@
     width="32"
     alt="nodejs"
     title="nodejs"
-    style="margin-right: 8px"
+    style="margin-right: 10px"
   />
   <img
     src="https://github.com/user-attachments/assets/4fce173e-a54c-4ccd-88e9-28254066a2f8"
@@ -92,7 +92,7 @@
     width="32"
     alt="firebase"
     title="firebase"
-    style="margin-right: 8px"
+    style="margin-right: 10px"
   />
   <img
     src="https://github.com/user-attachments/assets/d4447fbe-7b59-4ff3-943e-90cf59021749"
