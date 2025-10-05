@@ -42,18 +42,18 @@
     src="https://github.com/user-attachments/assets/30186c5f-8fda-4368-9ac2-0dd1cbc62221"
     height="32"
     width="32"
-    alt="html5"
-    title="html5"
+    alt="html"
+    title="html"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/d476732d-8a9a-4864-b7fc-f4a4c1130f43"
     height="32"
     width="32"
-    alt="css3"
-    title="css3"
+    alt="css"
+    title="css"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/23dcfdc6-27a3-4cc2-a1cc-4d7d104976d3"
     height="32"
@@ -61,7 +61,7 @@
     alt="javascript"
     title="javascript"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/c4762b03-a98d-4f39-9aa0-cc4337934a0d"
     height="32"
@@ -69,15 +69,15 @@
     alt="typescript"
     title="typescript"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/1acaad56-d43d-42ed-9a4e-f0c39af2e6c4"
     height="32"
     width="32"
-    alt="react19"
-    title="react19"
+    alt="react"
+    title="react"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/b1a88339-3f0f-4ab6-bb78-f842f33cba62"
     height="32"
@@ -85,7 +85,7 @@
     alt="vue"
     title="vue"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/f3cd1ed3-3e7c-43bc-8050-419dc9212a30"
     height="32"
@@ -93,7 +93,7 @@
     alt="tailwindcss"
     title="tailwindcss"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/52daf937-f17f-4a9b-ac65-a13b515808d9"
     height="32"
@@ -101,7 +101,7 @@
     alt="nodejs"
     title="nodejs"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/597ef8ea-b286-40e6-8358-33517a92066a"
     height="32"
@@ -109,7 +109,7 @@
     alt="firebase"
     title="firebase"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  &nbsp;&nbsp;
   <img
     src="https://github.com/user-attachments/assets/d4447fbe-7b59-4ff3-943e-90cf59021749"
     height="32"
@@ -117,5 +117,5 @@
     alt="git"
     title="git"
   />
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="6" /></a>
 </div>
