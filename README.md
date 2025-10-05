@@ -31,9 +31,9 @@
     style="margin-right: 8px"
   />
   <img
-    src="https://github.com/user-attachments/assets/b38d59d7-e956-466b-b07c-c9d4144b9db4"
-    height="28"
-    width="28"
+    src="https://github.com/user-attachments/assets/6e1a1ce3-e8bd-4b9f-8cac-d341b45b8179"
+    height="32"
+    width="32"
     alt="css"
     title="css"
     style="margin-right: 8px;"
