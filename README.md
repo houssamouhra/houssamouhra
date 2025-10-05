@@ -30,6 +30,7 @@
     </div>
 
 
+
 - **Languages & Libraries:** JavaScript · TypeScript · Vue · React · TailwindCSS
 - **Tools & Concepts:** REST APIs · Firebase · Netlify · Vitest · Playwright
 - **Currently Learning:** Node.js · Express.js 
@@ -37,144 +38,84 @@
 </br>
 
 <div align="center" dir="auto">
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://developer.mozilla.org/en-US/docs/Web/HTML"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      height="40"
-      alt="html5 logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://developer.mozilla.org/en-US/docs/Web/CSS"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      height="40"
-      alt="css3 logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      height="40"
-      alt="javascript logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://www.typescriptlang.org/"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      height="40"
-      alt="typescript logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://react.dev/"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      height="40"
-      alt="react logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://vuejs.org/"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vuejs/vuejs-original.svg"
-      height="40"
-      alt="react logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vuejs/vuejs-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://tailwindcss.com/"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg"
-      height="40"
-      alt="tailwindcss logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://nodejs.org/en"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      height="40"
-      alt="nodejs logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://firebase.google.com/"
-    ><img
-      src="https://github.com/user-attachments/assets/597ef8ea-b286-40e6-8358-33517a92066a"
-      height="40"
-      alt="nodejs logo"
-      data-canonical-src="https://github.com/user-attachments/assets/597ef8ea-b286-40e6-8358-33517a92066a"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer nofollow"
-    href="https://git-scm.com/"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      height="40"
-      alt="git logo"
-      data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      style="max-width: 100%; height: auto; max-height: 40px"
-  /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""
-    ><img width="12" style="max-width: 100%"
-  /></a>
+  <img
+    src="https://github.com/user-attachments/assets/30186c5f-8fda-4368-9ac2-0dd1cbc62221"
+    height="32"
+    width="32"
+    alt="html5"
+    title="html5"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/d476732d-8a9a-4864-b7fc-f4a4c1130f43"
+    height="32"
+    width="32"
+    alt="css3"
+    title="css3"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/23dcfdc6-27a3-4cc2-a1cc-4d7d104976d3"
+    height="32"
+    width="32"
+    alt="javascript"
+    title="javascript"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/c4762b03-a98d-4f39-9aa0-cc4337934a0d"
+    height="32"
+    width="32"
+    alt="typescript"
+    title="typescript"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/1acaad56-d43d-42ed-9a4e-f0c39af2e6c4"
+    height="32"
+    width="32"
+    alt="react19"
+    title="react19"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/b1a88339-3f0f-4ab6-bb78-f842f33cba62"
+    height="32"
+    width="32"
+    alt="vue"
+    title="vue"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/f3cd1ed3-3e7c-43bc-8050-419dc9212a30"
+    height="32"
+    width="32"
+    alt="tailwindcss"
+    title="tailwindcss"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/52daf937-f17f-4a9b-ac65-a13b515808d9"
+    height="32"
+    width="32"
+    alt="nodejs"
+    title="nodejs"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/597ef8ea-b286-40e6-8358-33517a92066a"
+    height="32"
+    width="32"
+    alt="firebase"
+    title="firebase"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
+  <img
+    src="https://github.com/user-attachments/assets/d4447fbe-7b59-4ff3-943e-90cf59021749"
+    height="32"
+    width="32"
+    alt="git"
+    title="git"
+  />
+  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
 </div>
