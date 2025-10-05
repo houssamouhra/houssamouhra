@@ -32,8 +32,8 @@
   />
   <img
     src="https://github.com/user-attachments/assets/b38d59d7-e956-466b-b07c-c9d4144b9db4"
-    height="20"
-    width="20"
+    height="26"
+    width="26"
     alt="css"
     title="css"
     style="margin-right: 8px;"
